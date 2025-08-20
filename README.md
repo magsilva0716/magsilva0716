@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Magdeline</h1>
+<h2 align="left">Hi 👋, I'm Magdeline Gomez</h2>
 
-<p align="center">
-  <em>Senior QA Automation Engineer 🚀</em>
+<p align="left">
+  <em> QA Automation Engineer 🚀</em>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+**👩‍💻 About Me**
 
 - 🔭 I’m currently working on building an end-to-end automation framework using **Java, Selenium WebDriver, and RestAssured.**
 - 🌱 I’m currently learning YAML to improve my CI/CD pipeline configuration skills.
@@ -14,7 +14,6 @@
 - 💬 Ask me about **Selenium, JAVA, API Testing or how to get started in QA Automation.**
 - 📫 How to reach me: [magdeline.silva@gmail.com](mailto:your.email@example.com)
 - ⚡ Fun fact: I take my coffee as seriously as I take my test reports ☕📊 — freshly brewed and always consistent.
-
 ---
 
 ### 🛠️ Languages and Tools:
